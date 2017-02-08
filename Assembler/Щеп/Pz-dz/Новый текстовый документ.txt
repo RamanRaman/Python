@@ -1,0 +1,2 @@
+wolk forward -вверх
+light up a tile - Лампа
